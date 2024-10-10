@@ -17,6 +17,7 @@ void precal() {
 void solve() {
     // TODO
     cout<<"hello world"; 
+    // thsi si new 
     
 }
 
